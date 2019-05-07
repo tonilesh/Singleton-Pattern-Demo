@@ -1,0 +1,11 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\Singleton\Singleton-v0\bin\Debug\Singleton-v0.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\Singleton\Singleton-v0\bin\Debug\Singleton-v0.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\Singleton\Singleton-v0\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\Singleton\Singleton-v0\obj\Debug\Singleton-v0.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\Singleton\Singleton-v0\obj\Debug\Singleton-v0.pdb
+C:\Sample codes\Singleton\Singleton-v0\bin\Debug\Singleton-v0.exe
+C:\Sample codes\Singleton\Singleton-v0\bin\Debug\Singleton-v0.pdb
+C:\Sample codes\Singleton\Singleton-v0\obj\Debug\Singleton-v0.csprojAssemblyReference.cache
+C:\Sample codes\Singleton\Singleton-v0\obj\Debug\Singleton-v0.csproj.CoreCompileInputs.cache
+C:\Sample codes\Singleton\Singleton-v0\obj\Debug\Singleton-v0.exe
+C:\Sample codes\Singleton\Singleton-v0\obj\Debug\Singleton-v0.pdb
